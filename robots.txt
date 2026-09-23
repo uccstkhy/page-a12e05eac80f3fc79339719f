@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zjavr.cn/sitemap.xml

@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "e495b49278fa1e5c5313bdef",
+  "owner": "uccstkhy",
+  "repo": "page-a12e05eac80f3fc79339719f",
+  "title": "Posses",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "a12e05eac80f3fc79339719f",
+      "a": "Posses",
+      "b": "2027官方最新地址导航",
+      "entity": "Posses",
+      "brand": "Posses",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "3aa9bd8925b4114f29e80aefe22fff3edbac5417210b27bdad6fa6bafbeae7b9",
+      "content": {
+        "primary_entity": "Posses",
+        "keyword1": "Posses",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_DESCRIPTION": "，侧重跨区域网络访问与客户端订阅管理，提供基础版、旗舰版、团队版三档订阅方案，月流量从 100GB 到 1000GB，设备并发数从 3 台到 20 台，可按月或按年灵活付费，旗舰版额外提供 IPLC 专线游戏加速优化。",
+          "AI_HERO_SUBTITLE": "Posses 跨区域网络加速订阅",
+          "AI_HERO_INTRO": "Posses 提供多档海外加速订阅方案，覆盖日常浏览、流媒体解锁与游戏加速场景。用户可按设备数量与月流量需求选择基础版、旗舰版或团队版，按月或按年付费，并通过客户端导入订阅信息完成配置。",
+          "AI_VISUAL_TITLE": "Posses 多档订阅灵活选择",
+          "AI_HIGHLIGHT_1": "三档订阅覆盖个人至团队",
+          "AI_HIGHLIGHT_2": "流量 100GB 起步，最高 1000GB",
+          "AI_HIGHLIGHT_3": "设备并发 3 台到 20 台",
+          "AI_FEATURES_INTRO": "从流量、设备数和订阅周期三个维度对比套餐，结合使用场景做出选择。",
+          "AI_FEATURES_TITLE": "Posses 订阅要点",
+          "AI_FEATURE_TITLE_1": "按流量选档",
+          "AI_FEATURE_TEXT_1": "基础版 100GB、旗舰版 300GB、团队版 1000GB，按月均用量匹配。",
+          "AI_FEATURE_TITLE_2": "按设备数选档",
+          "AI_FEATURE_TEXT_2": "3 台、5 台、20 台并发，手机、平板、电脑按需分配。",
+          "AI_FEATURE_TITLE_3": "按周期付费",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付基础版 ¥150、旗舰版 ¥350、团队版 ¥850。",
+          "AI_CLIENTS_TITLE": "Posses 客户端选择",
+          "AI_CLIENTS_INTRO": "根据设备系统选择对应客户端，导入订阅后即可使用。",
+          "AI_PLANS_TITLE": "Posses 套餐对比",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版兼顾流量与专线加速，团队版面向多人高流量场景。",
+          "AI_GUIDE_TITLE": "Posses 订阅配置步骤",
+          "AI_GUIDE_INTRO": "先确认设备与流量需求，再选择套餐并完成客户端订阅导入。",
+          "AI_STEP_TITLE_1": "选择订阅档位",
+          "AI_STEP_TEXT_1": "根据月流量与设备数量，在基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端版本满足订阅使用条件。",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_STEP_TEXT_3": "依照对应客户端文档，将订阅信息导入并启用连接。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "Posses 订阅选择",
+          "AI_CLOSING_TEXT": "对比三档套餐的流量与设备数，按需开通合适档位。",
+          "AI_FAQ_TITLE": "订阅与套餐问答",
+          "AI_FAQ_QUESTION_1": "Posses 有哪些套餐档位？",
+          "AI_FAQ_ANSWER_1": "提供基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月三档，年付分别为 ¥150、¥350、¥850。",
+          "AI_FAQ_QUESTION_2": "一个订阅能同时登录几台设备？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台，旗舰版支持 5 台，团队版支持 20 台设备同时在线，超出数量需升级套餐。",
+          "AI_FAQ_QUESTION_3": "是否支持流媒体与游戏加速？",
+          "AI_FAQ_ANSWER_3": "基础版解锁基础流媒体，旗舰版与团队版支持全节点原生流媒体解锁，旗舰版含 IPLC 专线游戏加速优化。",
+          "AI_FAQ_QUESTION_4": "如何导入订阅到客户端？",
+          "AI_FAQ_ANSWER_4": "在对应客户端中找到订阅导入选项，粘贴订阅链接并更新节点列表即可使用。",
+          "AI_FAQ_QUESTION_5": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_5": "年付相当于十个月价格，三档年付分别为 ¥150、¥350、¥850，适合长期使用的用户选择。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "zjavr.cn",
+    "host": "zjavr.cn"
+  },
+  "file_hashes": {
+    "index.html": "8987c73d5f9fda70a65f477f76e42f0116efe000c99f9700393fd227f00d1d84",
+    "sitemap.xml": "bfe8d281cdfa1c27f46b3389ebf432b91e113565a39386bbca79df54cfc02a2a",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "9de325b65f4a6a8b17d6a26069657f4a13240ccb5e765649e575fb28da9a58d5",
+    "robots.txt": "cf1c8c525f73039b4eb343f32c63c3f48f4e36b97f79b02a28ceebef4b4ca720",
+    "aa7629e29a95b6bc61b270f01f91d352.txt": "541c495102ee600c9dc15e511bd516f03bbf38c7b352f9f7048f906d664475f6"
+  },
+  "revision": "a4d202595967878060d07b043a3117176ddc4899d9b9093f4440415244ac71e1"
+}
